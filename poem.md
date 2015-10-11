@@ -1,13 +1,13 @@
 #The Conqueror Worm
 * * *
-_Lo!_ 'tis a gala night
-Within the lonesome latter years!
-An angel throng, bewinged, bedight
-In veils, and drowned in tears,
-Sit in a theatre, to see
-A play of hopes and fears,
-While the orchestra breathes fitfully
-The music of the spheres.
+- _Lo!_ 'tis a gala night
+- Within the lonesome latter years!
+- An angel throng, bewinged, bedight
+- In veils, and drowned in tears,
+- Sit in a theatre, to see
+- A play of hopes and fears,
+- While the orchestra breathes fitfully
+- The music of the spheres.
 
 Mimes, in the form of God on high,
 Mutter and mumble low,
