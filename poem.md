@@ -1,4 +1,6 @@
-Lo! 'tis a gala night
+#The Conqueror Worm
+
+_Lo!_ 'tis a gala night
 Within the lonesome latter years!
 An angel throng, bewinged, bedight
 In veils, and drowned in tears,
@@ -6,7 +8,7 @@ Sit in a theatre, to see
 A play of hopes and fears,
 While the orchestra breathes fitfully
 The music of the spheres.
-
+```
 Mimes, in the form of God on high,
 Mutter and mumble low,
 And hither and thither fly 
@@ -15,7 +17,7 @@ At bidding of vast formless things
 That shift the scenery to and fro,
 Flapping from out their Condor wings
 Invisible Wo!
-
+```
 That motley drama oh, be sure
 It shall not be forgot!
 With its Phantom chased for evermore,
@@ -29,7 +31,7 @@ But see, amid the mimic rout
 A crawling shape intrude!
 A blood-red thing that writhes from out
 The scenic solitude!
-It writhes! it writhes! with mortal pangs
+_It writhes! it writhes!_ with mortal pangs
 The mimes become its food,
 And the angels sob at vermin fangs
 In human gore imbued.
@@ -40,5 +42,9 @@ The curtain, a funeral pall,
 Comes down with the rush of a storm,
 And the angels, all pallid and wan,
 Uprising, unveiling, affirm
-That the play is the tragedy, "Man,"
+That the play is the tragedy, > Man,
 And its hero the Conqueror Worm.
+
+-- *Edgar Allen Poe*
+
+[Public Domain Poetry](http://www.public-domain-poetry.com/edgar-allan-poe/conqueror-worm-1741)
