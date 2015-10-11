@@ -42,7 +42,7 @@ The curtain, a funeral pall,
 Comes down with the rush of a storm,
 And the angels, all pallid and wan,
 Uprising, unveiling, affirm
-That the play is the tragedy, > Man,
+> That the play is the tragedy, Man,
 And its hero the Conqueror Worm.
 
 -- *Edgar Allen Poe*
