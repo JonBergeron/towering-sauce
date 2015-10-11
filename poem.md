@@ -47,4 +47,4 @@ And its hero the Conqueror Worm.
 
 -- *Edgar Allen Poe*
 
-[Public Domain Poetry](http://www.public-domain-poetry.com/edgar-allan-poe/conqueror-worm-1741)
+[Public Domain Poetry- The Conqueror Worm by Edgar Allen Poe](http://www.public-domain-poetry.com/edgar-allan-poe/conqueror-worm-1741)
